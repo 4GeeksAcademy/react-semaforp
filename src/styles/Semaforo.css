@@ -1,0 +1,20 @@
+.luz {
+    width: 80px;
+    height: 80px;
+    background-color: #ddd;
+    border-radius: 50%;
+    margin: 10px 0;
+  }
+  
+  .encendida {
+    background-color: #ff0000; /* Rojo por defecto */
+  }
+  
+  .amarillo.encendida {
+    background-color: #ffcc00; /* Amarillo */
+  }
+  
+  .verde.encendida {
+    background-color: #00ff00; /* Verde */
+  }
+  
