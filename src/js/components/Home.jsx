@@ -7,9 +7,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 import Semaforo from "./semaforo";
 const Home = () => {
 	return (
-		<div className="text-center">
-       <Semaforo/>
-		</div>
+		<div><Semaforo/></div>
 	);
 };
 
